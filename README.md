@@ -1,4 +1,4 @@
-# REST API NODE JS AND TYPEORM
+# Rest API Login JWT, TypeORM, Roles, TypeScript
 ## Register - Login - Forgot Password -  Reset Password
 
 
